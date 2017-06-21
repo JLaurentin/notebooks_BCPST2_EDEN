@@ -1,0 +1,9 @@
+name: example-environment
+
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - pandas
+  - pip:
+- git+https://github.com/JLaurentin/notebooks_BCPST2_EDEN
