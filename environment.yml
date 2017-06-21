@@ -5,5 +5,3 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - pip:
-- git+https://github.com/JLaurentin/notebooks_BCPST2_EDEN
